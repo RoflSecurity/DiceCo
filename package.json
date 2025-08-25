@@ -1,12 +1,19 @@
 {
   "name": "@roflsec/dice-coefficient",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sørensen–Dice coefficient for strings with CLI",
   "main": "dice.js",
   "bin": {
     "dice-coefficient": "./dice.js"
   },
-  "keywords": ["dice","sorensen-dice","similarity","cli","string", "lulzglobal"],
+  "keywords": [
+    "dice",
+    "sorensen-dice",
+    "similarity",
+    "cli",
+    "string",
+    "lulzglobal"
+  ],
   "author": "roflsec",
   "license": "MIT"
 }
